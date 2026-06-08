@@ -1,0 +1,14 @@
+node_modules/
+dist/
+.expo/
+*.tsbuildinfo
+.env
+.env.local
+.DS_Store
+*.log
+coverage/
+.cursor/
+.vscode/
+openspec/
+nul
+*.db
